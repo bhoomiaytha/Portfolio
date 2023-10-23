@@ -23,7 +23,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> Chillara Pavana Vamsi</strong>
+                <strong className="main-name"> Aytha Bhoomika</strong>
               </h1>
 
               <div
@@ -34,7 +34,7 @@ function Home() {
                 <a
                   href={resume}
                   className="btn resume-button"
-                  download="Pavana Vamsi"
+                  download="Aytha Bhoomika"
                 >
                   Get Resume &nbsp;
                   <svg
